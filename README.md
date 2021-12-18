@@ -24,4 +24,4 @@ Added comments in css to delineate sections.
 Changed title.
 Added alts for images.
 
-
+URL for Horiseon page: https://csnyder332.github.io/HoriseonChallenge/
