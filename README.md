@@ -19,9 +19,9 @@ THEN I find a concise, descriptive title
 ![image](https://user-images.githubusercontent.com/95385092/146652968-91c17687-4bf3-4569-92cb-311b9b9e4425.png)
 
 Refactoring performed:
-Changed elements in index file to consolidate css
-Added comments in css to delineate sections
-Changed title
-Added alts for images
+Changed elements in index file to consolidate css.
+Added comments in css to delineate sections.
+Changed title.
+Added alts for images.
 
 
